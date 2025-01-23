@@ -1,4 +1,5 @@
 {
+  "homepage": "http://oshperez.github.io/landing-page-demo",
   "name": "mafex-landing-page",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,8 @@
   },
   "scripts": {
     "start": "react-app-rewired start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
@@ -40,6 +43,7 @@
   "devDependencies": {
     "babel-plugin-styled-components": "^2.0.7",
     "customize-cra": "^1.0.0",
+    "gh-pages": "^6.3.0",
     "react-app-rewired": "^2.2.1"
   }
 }
