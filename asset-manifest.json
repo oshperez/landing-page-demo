@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/landing-page-demo/static/js/main.2ff0f3cc.js",
+    "static/js/787.5fa18555.chunk.js": "/landing-page-demo/static/js/787.5fa18555.chunk.js",
+    "static/media/car.png": "/landing-page-demo/static/media/car.eb14bb0ee6ae414f6ea2.png",
+    "static/media/car2.jpg": "/landing-page-demo/static/media/car2.6fda1899693ef3f95e1c.jpg",
+    "static/media/technician.png": "/landing-page-demo/static/media/technician.aaef42d1c7dfff7e9c66.png",
+    "static/media/car-rear-end.jpg": "/landing-page-demo/static/media/car-rear-end.f25333bcb897459d1cfd.jpg",
+    "static/media/modified-car.jpg": "/landing-page-demo/static/media/modified-car.9daaed9ec7931ab97c55.jpg",
+    "static/media/panel-patch.jpg": "/landing-page-demo/static/media/panel-patch.da66a88e8a71c2795bcd.jpg",
+    "static/media/welding.jpg": "/landing-page-demo/static/media/welding.7c3195f5172346cc9190.jpg",
+    "static/media/polishing.jpg": "/landing-page-demo/static/media/polishing.d9f1e8b1775ddde67a59.jpg",
+    "static/media/dent-repair.jpg": "/landing-page-demo/static/media/dent-repair.ff7b571040f79e2fb450.jpg",
+    "static/media/paint-spray-gun.jpg": "/landing-page-demo/static/media/paint-spray-gun.e9184b47da7e89ef6719.jpg",
+    "static/media/instagram.svg": "/landing-page-demo/static/media/instagram.a501412562d9f2db33e5bab37db8a7f4.svg",
+    "static/media/phone.svg": "/landing-page-demo/static/media/phone.691f6773cda7fe878eb3d00413a01a9c.svg",
+    "index.html": "/landing-page-demo/index.html",
+    "static/media/twitter.svg": "/landing-page-demo/static/media/twitter.4b0530cd94af35e3edc391f144d567e0.svg",
+    "static/media/envelope.svg": "/landing-page-demo/static/media/envelope.0984f4c45ce3d0ad25d1d569a22d1ead.svg",
+    "static/media/youtube.svg": "/landing-page-demo/static/media/youtube.1fc16c8446204492f18c7ee9a9b83728.svg",
+    "static/media/arrow.svg": "/landing-page-demo/static/media/arrow.ad1ad687d4d2b07b5a9785a17c2fe418.svg",
+    "static/media/plane.svg": "/landing-page-demo/static/media/plane.9fc2744e70db266d7e1fc90fdf7a2f12.svg",
+    "static/media/exclamation-circle.svg": "/landing-page-demo/static/media/exclamation-circle.079ee4927a7028aaca5e1f21c71f3665.svg",
+    "static/media/xmark.svg": "/landing-page-demo/static/media/xmark.e0864373eda4477e265be688ce350c25.svg",
+    "static/media/check.svg": "/landing-page-demo/static/media/check.2fb879ab49aafc1cd3b1710113efe6bd.svg",
+    "static/media/user.svg": "/landing-page-demo/static/media/user.b6b33a744c1e6959f2ac000d101e916a.svg",
+    "static/media/curved-line.svg": "/landing-page-demo/static/media/curved-line.fafae4217695b67ee45df0dab455aceb.svg",
+    "static/media/facebook.svg": "/landing-page-demo/static/media/facebook.7998a66c64b62f1ee5d39379c85ecc41.svg",
+    "main.2ff0f3cc.js.map": "/landing-page-demo/static/js/main.2ff0f3cc.js.map",
+    "787.5fa18555.chunk.js.map": "/landing-page-demo/static/js/787.5fa18555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2ff0f3cc.js"
+  ]
+}
